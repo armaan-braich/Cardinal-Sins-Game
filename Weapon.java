@@ -63,8 +63,8 @@ public class Weapon {
 
 
 
-                new Weapon("Meteor Sword", 29, 690, 4, 9 ),
-                new Weapon("Galactic Sword", 24, 840, 4, 9),
+                new Weapon("Meteor Sword", 24, 690, 4, 9 ),
+                new Weapon("Galactic Sword", 29, 840, 4, 9),
 
                 //=================================================
                 new Weapon("Excalibur", 39, 1000, 4, 9),
